@@ -1,0 +1,21 @@
+What is Software?
+
+Software is a set of instructions, data, or programs used to operate computers and execute specific tasks.
+
+
+What are the types of Applications?
+
+Gaming software
+Communication software
+Security software
+Mobile applications
+Artificial Intelligence and Machine Learning
+Web browsers
+
+What is programing?
+
+Programming is the process of creating a set of instructions that tell a computer how to perform a task. 
+
+What is Python?
+
+Python is a high-level, interpreted programming language known for its simplicity and versatility.

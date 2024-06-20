@@ -1,0 +1,3 @@
+What are negative indexes and why are they used?
+
+Negative indexes in python refer to the ability to access elements from the end of a sequence using negative numbers.
